@@ -16,3 +16,7 @@ Classified  xray images of spine into 3 classes using advanced state of art tech
 
 
 **Tech Stack**: Python, TensorFlow/Keras, pretrained CNNs, custom architecture integration, spatial attention mechanisms, and data augmentation for image classification tasks.
+
+
+
+**Dataset Link ** : https://www.kaggle.com/datasets/yasserhessein/the-vertebrae-xray-images
